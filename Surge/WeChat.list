@@ -336,7 +336,7 @@ DOMAIN-SUFFIX,vweixinthumb.tc.qq.com
 DOMAIN-SUFFIX,wechat.com
 DOMAIN-SUFFIX,wechatos.net
 DOMAIN-SUFFIX,weixin.com
-DOMAIN-SUFFIX,weixin.qq.com
+#DOMAIN-SUFFIX,weixin.qq.com
 DOMAIN-SUFFIX,wx.gtimg.com
 DOMAIN-SUFFIX,wx.qq.com
 DOMAIN-SUFFIX,wxs.qq.com
